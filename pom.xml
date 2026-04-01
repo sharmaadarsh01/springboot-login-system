@@ -61,10 +61,10 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.kodnest</groupId>
-			<artifactId>Firstdemo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+    <groupId>com.kodnest</groupId>
+    <artifactId>Firstdemo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+</dependency>
 	</dependencies>
 
 	<build>
